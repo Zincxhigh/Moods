@@ -2,9 +2,9 @@
 its a fun website I made for waffles nothing special just static text
 
 # TECHS USED
-1 javascript
-2 CSS
-3 HTML
+* javascript
+* CSS
+* HTML
 
 ## Contribute
 if you would like a simple template then you can use this.
