@@ -1,0 +1,56 @@
+body{
+    font-family: "Press start 2p";
+    background-color: #020617;
+}
+
+.section{
+    max-width:800px;
+    margin:auto;
+    margin-top: 250px;
+    background:#020617;
+    padding:40px;
+    margin-bottom:30px;
+    border: 2px solid blanchedalmond;
+    border-radius: 20px;
+    font-size:20px;
+}
+.button {
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    border: 3px solid black;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 2px 4px 8px rgba(255, 255, 255, 0.3);
+}
+.button:hover {
+    background-color: gray;
+    box-shadow: 2px 4px 8px rgb(255, 255, 255);
+}
+#button1 {
+    background-color: red;
+    margin-left: 85px;
+    font-family: "Press start 2p";
+}
+#button2 {
+    background-color: blue;
+    font-family: "Press start 2p";
+}
+#button3 {
+    background-color: green;
+    font-family: "Press start 2p";
+}
+#button4 {
+    background-color: yellow;
+    font-family: "Press start 2p";
+}
+#title {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+#text {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
